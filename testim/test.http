@@ -1,0 +1,5 @@
+GET http://alif.uz/api/v1/1
+Accept: application/json
+Authorization: Bearer 12345678
+
+###
